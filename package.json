@@ -1,0 +1,17 @@
+{
+  "name": "event-timing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server",
+    "test": "echo \"No Test\" && exit 1"
+  },
+  "keywords": [],
+  "author": "brandon",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.1"
+  }
+}
